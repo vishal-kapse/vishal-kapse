@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at CloudCover as a DevOps Engineer
 - 🌱 I love to explore new tools and technology, like to build solutions that makes life easier in any sense
 - 💬 We can talk about technical and non-technical stuff. I will be more than happy to help/discuss and learn.
-- ⚡ Fun fact: I am a mechanical engineer loving software, but don't judge me on this parameter
+
 
 ### Find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishalkapse9696/)
 
