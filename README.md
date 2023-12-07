@@ -27,9 +27,6 @@
 </div>
 <br />
 
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=vishal-kapse&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
-</div>
 <br />
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=vishal-kapse&margin-w=15"><img src="https://github-profile-trophy.vercel.app/?username=vishal-kapse" alt="vishal-kapse" /></a> </p>
