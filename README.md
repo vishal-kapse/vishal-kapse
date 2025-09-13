@@ -3,8 +3,8 @@
 [![wakatime](https://wakatime.com/badge/user/af3a2f87-1691-4ab1-8f3c-9a318eca7711.svg)](https://wakatime.com/@af3a2f87-1691-4ab1-8f3c-9a318eca7711)
 
 **Know more**
-- 🔭 I’m currently working at CloudCover as a DevOps Engineer
-- 🌱 I love to explore new tools and technology, like to build solutions that makes life easier in any sense
+- 🔭 I’m currently working at Ollion as a Senior DevOps Engineer
+- 🌱 I love to explore new tools and technology and like to build solutions
 - 💬 We can talk about technical and non-technical stuff. I will be more than happy to help/discuss and learn.
 
 
